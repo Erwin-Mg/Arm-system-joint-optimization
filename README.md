@@ -1,4 +1,7 @@
 # Arm-system-joint-optimization
+Completed within the optimization framework Platemo， and this work is still in progress.
+
+
  -----Ref----- 
  
 · Liao Wu, Ross Crawford, Jonathan Roberts. Dexterity analysis of three 
