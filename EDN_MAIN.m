@@ -1,0 +1,1 @@
+[Dec,Obj,Con] = platemo('algorithm',@EDNARMOEA,'problem',@MJ_Problem);
